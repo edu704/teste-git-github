@@ -1,4 +1,4 @@
-#tainha
+#tainha ovada
 ##corvina
 ###papa-terra
 ####escrivão
